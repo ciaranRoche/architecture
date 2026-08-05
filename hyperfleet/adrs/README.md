@@ -94,3 +94,4 @@ What did we decide? State it plainly.
 | [0016](0016-helm-oci-distribution.md) | Helm OCI Distribution via Konflux | Active | 2026-05-11 |
 | [0017](0017-adapter-error-taxonomy.md) | Selective Message Acknowledgment in Adapters | Active | 2026-05-25 |
 | [0018](0018-e2e-jwt-tls-architecture.md) | E2E JWT/TLS Architecture | Active | 2026-07-07 |
+| [0019](0019-envoy-authorino-gateway-authn-boundary.md) | Envoy + Authorino Gateway as the Authentication Boundary | Active | 2026-08-05 |
